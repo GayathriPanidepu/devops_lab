@@ -1,0 +1,11 @@
+<!ELEMENT NRI (eno,ename,esal)>
+<!ELEMENT eno (#PCDATA)>
+<!ELEMENT ename (#PCDATA)>
+<!ELEMENT esal (#PCDATA)>
+]>
+<NRI>
+<eno>393</eno>
+<ename>SIDDHARTHA</ename>
+<esal>99999</esal>
+</NRI>
+
